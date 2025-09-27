@@ -23,7 +23,8 @@ export async function POST(request) {
     // Send the email via the email API
     const { data } = await emailNotification.emails.send({
       from: "Contactez-nous <form@lumeloptique.com>",
-      to: "nyamarinette2020@gmail.com",
+
+           to: "lumeloptique.projet@gmail.com",
       subject: "Vous avez reçu une nouvelle soumission via votre site internet",
       react: emailContent,
     });
