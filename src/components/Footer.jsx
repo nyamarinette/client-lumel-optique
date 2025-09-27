@@ -57,7 +57,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h3 className="text-xl font-serif font-bold text-foreground mb-4">
-              Belissima
+              Lumel Optique
             </h3>
             <p className="text-muted-foreground mb-4">Nos Horaires</p>
             <p className="text-muted-foreground mb-4">
@@ -120,11 +120,11 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border/50 text-center text-sm text-muted-foreground">
           <p>
-            Bethel Eyes Care - {`© ${new Date().getFullYear()}`} Clinique
+            Lumel Optique - {`© ${new Date().getFullYear()}`} Clinique
             Optique Privée - Tous droits réservés.
           </p>
           <p className="mt-2">
-            Ce site est maintenu par Belissima - Consultante Cloud et
+            Ce site est maintenu par Lumel Optique - Consultante Cloud et
             Hébergement des sites internet.
           </p>
         </div>

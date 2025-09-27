@@ -24,8 +24,8 @@ export async function POST(request) {
     const { data } = await emailNotification.emails.send({
       from: "Contactez-nous <form@lumeloptique.com>",
 
-           to: "lumeloptique.projet@gmail.com",
-      subject: "Vous avez reçu une nouvelle soumission via votre site internet",
+           to: "linksbruno2@gmail.com",
+      subject: "Vous avez reçu une nouvelle notification via votre site internet de Lumel Optique",
       react: emailContent,
     });
 
