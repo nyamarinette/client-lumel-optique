@@ -1,10 +1,10 @@
-import Bienvenue from "@/components/Bienvenue";
+import AProposDeNousContenu from "@/components/AProposDeNousContenu";
 
-export default function AboutPage() {
+export default function AProposDeNous() {
   return (
     <div className="min-h-screen bg-background">
       <main>
-        <Bienvenue />
+        <AProposDeNousContenu />
       </main>
     </div>
   );

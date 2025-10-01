@@ -15,7 +15,7 @@ export const articlesPostés = [
     id: 2,
     title: "Verres progressifs : halte aux idées reçues",
     excerpt:
-      "Portez vos lunettes en permanence ! D’éventuels problèmes d’adaptation peuvent justement survenir quand notre cerveau et nos yeux doivent s’accommoder en permanence à des changements de correction.",
+      "Portez vos lunettes en permanence ! D’éventuels problèmes d’adaptation peuvent justement survenir à nos yeux.",
     category: "Tout sur la vision",
     date: "Novembre 17, 2021",
     image:
@@ -39,8 +39,7 @@ export const articlesPostés = [
     id: 4,
     title: "Lunettes de repos, pour quoi faire ?",
     excerpt:
-      "Ces petits signes de fatigue oculaire ressentis au quotidien peuvent être les indices d’un défaut visuel léger, comme un petit astigmatisme ou une hypermétropie .",
-    category: "Tout sur la vision",
+      "Ces petits signes de fatigue oculaire ressentis au quotidien peuvent être les indices d’un défaut visuel léger.",
     date: "Mars 24, 2021",
     image:
       "https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Page+d'acceuil/Articles+Post%C3%A9s/Lunettes+de+repos.png",

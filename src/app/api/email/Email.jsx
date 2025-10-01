@@ -19,66 +19,70 @@ export const Email = ({ fullname, email, service, communication, message }) => {
               src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Leur+logos/Bethel+Eyes+care_logo.jpg"
               width="200"
               height="200"
-              alt="Bethel Eyes Care Logo"
+              alt="Le logo de Lumel Optique"
               style={{
                 borderRadius: "15px",
               }}
             />
 
             <Text>
-              Thanks for reading this information. You&apos;re now ready to
-              collect the data from your deployed website.
+              Salut, <br></br>
+              {"  "}Vous avez reçu une nouvelle soumission via le formulaire de
+              contact de votre site internet " Lumel Optique ".<br></br>
             </Text>
 
             <Text>
-              <p style={{ fontSize: "1.125rem", color: "#71717a" }}>
-                Hi, someone submitted a form with the following details:
+              <p className="text-lg text-zinc-300">
+                Voici les détails de la demande:
               </p>
-              <ul
-                style={{
-                  display: "flex",
-                  flexDirection: "column",
-                  gap: "1rem",
-                  paddingLeft: 0,
-                  listStyle: "none",
-                }}
-              >
+              <ul className="flex flex-col space-y-4">
                 <li>
                   <strong>
-                    <i>Prospective client: </i>
-                  </strong>
+                    {" "}
+                    <i>Nom du client: </i>{" "}
+                  </strong>{" "}
                   {fullname}
                 </li>
+                <br></br>
                 <li>
                   <strong>
-                    <i>Email: </i>
+                    {" "}
+                    <i>Email: </i>{" "}
                   </strong>
-                  <a href={`mailto:${email}`} style={{ fontWeight: "500" }}>
+                  <a className="font-medium" href={`mailto:${email}`}>
+                    {" "}
                     {email}
-                  </a>
+                  </a>{" "}
                 </li>
+                <br></br>
                 <li>
                   <strong>
-                    <i>Selected service: </i>
-                  </strong>
+                    {" "}
+                    <i>Service desiré: </i>
+                  </strong>{" "}
                   {service}
                 </li>
+                <br></br>
                 <li>
                   <strong>
-                    <i>Méthode de communication choisie: </i>
-                  </strong>
+                    {" "}
+                    <i>Méthode de communication choisie: </i>{" "}
+                  </strong>{" "}
                   {communication}
                 </li>
+                <br></br>
                 <li>
                   <strong>
-                    <i>Message: </i>
-                  </strong>
+                    {" "}
+                    <i>Message: </i>{" "}
+                  </strong>{" "}
                   {message}
                 </li>
+                <br></br>
               </ul>
 
               <Button
-                href="https://google.com"
+                href="https://lumeloptique.com"
                 style={{
                   background: "#000",
                   color: "#fff",
@@ -90,14 +94,18 @@ export const Email = ({ fullname, email, service, communication, message }) => {
               </Button>
 
               <p>
-                Best regards, <br />
-                Bethel Eyes Care Team
+                Merci de traiter cette demande dès que possible.
+                <br />
+                Bien cordialement,
+                <br />
+                L'equipe marketing de Lumel Optique
               </p>
             </Text>
 
-            <Text style={{ marginTop: "1rem", color: "#71717a" }}>
-              © Bethel Eyes Care - © {new Date().getFullYear()} Clinique
-              Optique Privée - Tous droits réservés - Douala, Cameroun.
+            <Text>
+              {" "}
+              © Lumel Optique - © {new Date().getFullYear()} Clinique Optique
+              Privée - Tous droits réservés - Douala, Cameroun.
             </Text>
           </Section>
         </Container>

@@ -5,15 +5,21 @@ export default function SectionDesProduits() {
     <section>
       {/* Title */}
 
-      <div className="pt-4  bg-white">
-        <h1 className="text-center text-2xl font-bold text-gray-800">
-          Nos Produits de Soins Oculaires (Eyescare Products)
+      <div className="pt-4 ">
+        <h1 className="text-center text-2xl font-bold text-gray-800 mb-4">
+          Nos Produits (Lumel Optique Products)
         </h1>
+        <p className=" text-center text-xl  text-gray-800">
+          Chez Lumel Optique, nous vous proposons une large sélection de
+          produits de qualité, adaptés à vos besoins visuels, à votre style et à
+          votre budget. <br></br>Découvrez nos collections pour toute la
+          famille.
+        </p>
       </div>
 
       {/* La liste des produits  : https://www.pharma-gdd.com/fr/search?q=yeux */}
 
-      <section className="py-10 bg-gray-100">
+      <section className="py-10">
         <div className="mx-auto grid max-w-6xl  grid-cols-1 gap-6 p-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {/*   Produits de Lunetteries       */}
           <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
@@ -46,7 +52,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Lunettes de Vue | 45000 Fcfa </h2>
+                <h2 className="text-slate-700">
+                  Lunettes de Vue | 45000 Fcfa{" "}
+                </h2>
                 <p className="mt-1 text-sm text-slate-400">Noir, Homme</p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -97,9 +105,7 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                 Lunettes de Vue | 45000 Fcfa
-                </h2>
+                <h2 className="text-slate-700">Lunettes de Vue | 45000 Fcfa</h2>
                 <p className="mt-1 text-sm text-slate-400">Douala, Cameroun</p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -158,9 +164,7 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                  Lunettes de Vue | 45000 Fcfa
-                </h2>
+                <h2 className="text-slate-700">Lunettes de Vue | 45000 Fcfa</h2>
                 <p className="mt-1 text-sm text-slate-400">Douala, Cameroun</p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -218,9 +222,7 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                 Lunettes de Vue | 45000 Fcfa
-                </h2>
+                <h2 className="text-slate-700">Lunettes de Vue | 45000 Fcfa</h2>
                 <p className="mt-1 text-sm text-slate-400">Douala, Cameroun</p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -249,28 +251,16 @@ export default function SectionDesProduits() {
           </article>
 
           {/*   Produits de Manicure       */}
-         
 
           {/*   Produits de Coiffure       */}
 
-          
-
           {/*   Produits d'Agriculture      */}
-
-          
 
           {/*   Produits de services traiteur      */}
 
-          
-
           {/*   Produits de vente de bièrres à pression     */}
 
-          
-
           {/*   Produits de Maisons à louer     */}
-
-          
-           
         </div>
       </section>
     </section>

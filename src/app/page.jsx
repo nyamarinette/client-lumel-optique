@@ -1,16 +1,14 @@
-import CategoriesSection from "@/components/CategoriesSection";
-import FeaturedSection from "@/components/FeaturedSection";
-import HeroSection from "@/components/HeroSection";
-import QuotesSection from "@/components/QuotesSection";
+import SectionJournaux from "@/components/SectionJournaux";
+import SectionAccueil from "@/components/SectionAccueil";
+import AvisClientsContenu from "@/components/AvisClientsContenu";
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-background">
       <main>
-        <HeroSection />
-        <FeaturedSection />
-        <CategoriesSection />
-        <QuotesSection />
+        <SectionAccueil />
+        <SectionJournaux />
+        <AvisClientsContenu />
       </main>
     </div>
   );

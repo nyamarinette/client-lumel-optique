@@ -23,9 +23,9 @@ export async function POST(request) {
     // Send the email via the email API
     const { data } = await emailNotification.emails.send({
       from: "Contactez-nous <form@lumeloptique.com>",
-
-           to: "linksbruno2@gmail.com",
-      subject: "Vous avez reçu une nouvelle notification via votre site internet de Lumel Optique",
+      to: "linksbruno2@gmail.com",
+      subject:
+        "Vous avez reçu une nouvelle notification via votre site internet de Lumel Optique",
       react: emailContent,
     });
 
@@ -36,8 +36,7 @@ export async function POST(request) {
 
     // Return error response if something goes wrong
     return NextResponse.json({
-      error:
-        error instanceof Error ? error.message : "Une erreure est survenue",
+      error,
     });
   }
 }

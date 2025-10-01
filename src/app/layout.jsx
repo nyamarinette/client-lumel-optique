@@ -1,8 +1,8 @@
 import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
-import Navigation from "@/components/Navigation";
-import Footer from "@/components/Footer";
+import Entete from "@/components/Entete";
+import PiedDePage from "@/components/PiedDePage";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({
@@ -13,8 +13,9 @@ const playfair = Playfair_Display({
 // You can optionally export metadata as a plain object or remove it if unused
 export const metadata = {
   title:
-    "Customized Web Hosting | Hébergement personnalisé de votre site internet | Consultation à Douala, Cameroun",
-  description: "Une platforme simple et rapide pour votre site internet.",
+    "Lumel Optique | Lunettes de vue, kit d'entretien | Examen de vue à Douala, Cameroun",
+  description:
+    "Lumel Optique, votre spécialiste optique en ligne et dans vos regions.",
 };
 
 export default function RootLayout({ children }) {
@@ -27,9 +28,9 @@ export default function RootLayout({ children }) {
           enableSystem
           disableTransitionOnChange
         >
-          <Navigation />
+          <Entete />
           {children}
-          <Footer />
+          <PiedDePage />
         </ThemeProvider>
       </body>
     </html>
