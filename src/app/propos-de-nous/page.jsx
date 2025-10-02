@@ -1,4 +1,6 @@
-import AProposDeNousContenu from "@/components/AProposDeNousContenu";
+//import AProposDeNousContenu from "@/components/AProposDeNousContenu";
+import clsx from "clsx";
+import AProposDeNousContenu from "../../components/AproposDeNousContenu";
 
 export default function AProposDeNous() {
   return (
