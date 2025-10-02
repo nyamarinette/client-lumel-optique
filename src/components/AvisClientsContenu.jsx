@@ -1,15 +1,9 @@
+"use client";
 import { avisDeNosClients } from "@/lib/data";
-// import { Quote } from "lucide-react";
-// import * as motion from "motion/react-client";
-import Head from "next/head";
 
 export default function AvisClientsContenu() {
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8">
-      <Head>
-        <title>Avis clients | Lumel Optique</title>
-      </Head>
-
       <main className="px-6 py-12 max-w-5xl mx-auto">
         <h1 className="text-4xl font-bold mb-4 text-center">
           ⭐ Avis de nos clients
