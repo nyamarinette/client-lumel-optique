@@ -166,7 +166,7 @@ export default function SectionDesProduits() {
                 <p className="mt-1 text-sm text-slate-400">Douala, Cameroun</p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">new</p>
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -248,7 +248,7 @@ export default function SectionDesProduits() {
             </a>
           </article>
 
-          {/*   Produits de Manicure       */}
+           {/*   Produits des Étuis de lunettes       */}
           <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
@@ -496,14 +496,15 @@ export default function SectionDesProduits() {
               </div>
             </a>
           </article>
+    
 
-          {/*   Produits de Coiffure       */}
+          {/*   Produits de corde de lunettes       */}
 
           <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_coiffure/braiding_1.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_corde+de+lunettes/corde+pour+lunettes_1.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -530,14 +531,14 @@ export default function SectionDesProduits() {
 
               <div className="mt-1 p-2">
                 <h2 className="text-slate-700">
-                  Shana's African Hair Braiding ( Mobile Hair Services )
+                  Corde de lunettes
                 </h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
                   Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">1000 Fcfa</p>
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -564,7 +565,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_coiffure/braiding_2.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_corde+de+lunettes/corde+pour+lunettes_2.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -591,14 +592,14 @@ export default function SectionDesProduits() {
 
               <div className="mt-1 p-2">
                 <h2 className="text-slate-700">
-                  Shana's African Hair Braiding ( Mobile Hair Services )
+                  Corde de lunettes
                 </h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
                   Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">4000 Fcfa</p>
 
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
@@ -626,7 +627,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_coiffure/braiding_3.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_corde+de+lunettes/corde+pour+lunettes_3.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -653,14 +654,14 @@ export default function SectionDesProduits() {
 
               <div className="mt-1 p-2">
                 <h2 className="text-slate-700">
-                  Shana's African Hair Braiding ( Mobile Hair Services )
+                  Corde de lunettes
                 </h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
                   Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">6000 Fcfa</p>
 
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
@@ -688,9 +689,8 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_coiffure/braiding_4.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_corde+de+lunettes/corde+pour+lunettes_4.png"
                   alt="black framed eyeglasses"
-                  //   className="object-cover transition-transform duration-300 group-hover:scale-105"
                   width={500}
                   height={500}
                 />
@@ -716,14 +716,14 @@ export default function SectionDesProduits() {
 
               <div className="mt-1 p-2">
                 <h2 className="text-slate-700">
-                  Shana's African Hair Braiding ( Mobile Hair Services )
+                 Corde de lunettes
                 </h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
                   Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">5000 Fcfa</p>
 
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
@@ -748,13 +748,15 @@ export default function SectionDesProduits() {
             </a>
           </article>
 
-          {/*   Produits d'Agriculture      */}
+
+
+            {/*   Produits de nettoyage de lunettes optique      */}
 
           <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/agriculture_1.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_nettoyage+optique/lens+cleaner_1.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -780,13 +782,13 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Cacao</h2>
+                <h2 className="text-slate-700">Zeiss</h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Le cacao du continent, nous cultivons le cacao depuis 50 ans.
+                  Nettoyeur de verre optique
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">10000 Fca</p>
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -813,7 +815,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/onions.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_nettoyage+optique/lens+cleaner_2.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -839,13 +841,13 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Onions</h2>
+                <h2 className="text-slate-700">Zeiss</h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Agriculture Bio
+                  Nettoyeur de verre optique
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">11000 Fcfa</p>
 
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
@@ -873,7 +875,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/agriculture_3.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_nettoyage+optique/lens+cleaner_3.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -899,13 +901,13 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Regime de Plantains</h2>
+                <h2 className="text-slate-700">Sparkle</h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Agriculture, Bio
+                  Nettoyeur de verre optique
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">15000 Fcfa</p>
 
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
@@ -933,9 +935,8 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/jus+de+mangue.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_nettoyage+optique/lens+cleaner_4.png"
                   alt="black framed eyeglasses"
-                  //   className="object-cover transition-transform duration-300 group-hover:scale-105"
                   width={500}
                   height={500}
                 />
@@ -960,13 +961,13 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Mangues</h2>
+                <h2 className="text-slate-700">Serviette lunette</h2>
                 <p className="mt-1 text-sm text-slate-400">
-                  Cultivées naturellement
+                  Nettoyeur de verre optique
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">10000 Fcfa</p>
 
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
@@ -991,749 +992,19 @@ export default function SectionDesProduits() {
             </a>
           </article>
 
-          {/*   Produits de services traiteur      */}
+         
 
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_catering/grill_1.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
+          {/*   Produits d'une autre categorie     */}
 
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
+          
 
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Amapiano</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Vuli Gate
-                </p>
+          {/*   Produits d'une autre categorie    */}
 
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
+          
 
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_catering/grill_2.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
+          {/*   Produits d'une autre categorie    */}
 
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Waterman</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Bienvenue à Youpwé
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_catering/grill_3.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Plantain</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  African fries, DG
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_catering/grill_4.jpg"
-                  alt="black framed eyeglasses"
-                  //   className="object-cover transition-transform duration-300 group-hover:scale-105"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Poisson braisé</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Rue de la Joie
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-
-          {/*   Produits de vente de bièrres à pression     */}
-
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/pression_1.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Forêt Bar</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Bière Blonde, Glacée
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/Bi%C3%A8re+%C3%A0+pression/Bi%C3%A8re+%C3%A0+pression_1.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Tango</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  King Tapée Tapée
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/pression_3.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">La Vraie Pression</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Le Goût du pays
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/Bi%C3%A8re+%C3%A0+pression/Bi%C3%A8re+%C3%A0+pression_2.jpg"
-                  alt="black framed eyeglasses"
-                  //   className="object-cover transition-transform duration-300 group-hover:scale-105"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ajouter au panier</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Yoyo Bar</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Bière Bien Tapée et Glacée
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ajouter au panier</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-
-          {/*   Produits de Maisons à louer     */}
-
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_maison/maison_1.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ça m&apos;intéresse</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                  Maison à louer (250,000 FCFA)
-                </h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Japoma, Douala-Cameroun
-                </p>
-                <p className="mt-1 text-sm text-slate-400 italic ">
-                  Villa · 3 chambres · parking
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">new</p>
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ça m&apos;intéresse</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_maison/maison_2.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Ça m&apos;intéresse</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                  Maison à louer (350,000 FCFA)
-                </h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Obobogo, Yaoundé-Cameroun
-                </p>
-                <p className="mt-1 text-sm text-slate-400 italic ">
-                  Duplex · 3 chambres · 3 salles de bain · parking · barrière
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">new</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Ça m&apos;intéresse</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_maison/maison_3.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Contactez l&apos;agent</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Maison à louer (4 chambres)</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Rosebank, Cape Town
-                </p>
-                <p className="mt-1 text-sm text-slate-400 italic font-bold ">
-                  Duplex · 4 chambres · 2 salles de bain · parking · barrière
-                </p>
-                <p className="mt-1 text-sm text-slate-400 italic ">
-                  convenient living in the heart of Rosebank.{" "}
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">R7830</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Contactez l&apos;agent</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
-          <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
-            <a href="#">
-              <div className="relative flex items-end overflow-hidden rounded-xl">
-                <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_maison/maison_4.jpg"
-                  alt="black framed eyeglasses"
-                  width={500}
-                  height={500}
-                />
-                <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth="1.5"
-                    stroke="currentColor"
-                    className="h-4 w-4"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                    />
-                  </svg>
-
-                  <button className="text-sm">Contactez l&apos;agent</button>
-                </div>
-              </div>
-
-              <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Maison à vendre ($734,900)</h2>
-                <p className="mt-1 text-sm italic font-bold text-slate-400">
-                  Virginia Beach, USA
-                </p>
-
-                <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">new</p>
-
-                  <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth="1.5"
-                      stroke="currentColor"
-                      className="h-4 w-4"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"
-                      />
-                    </svg>
-
-                    <button className="text-sm">Contactez l&apos;agent</button>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </article>
+          
         </div>
       </section>
     </section>
