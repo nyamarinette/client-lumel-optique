@@ -90,7 +90,7 @@ export default function FormulaireDeContact() {
                     <path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                   <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                    Ange Raphaël, Douala-Cameroun
+                     Douala,Ancien 3éme aprés la banque atlantique
                   </div>
                 </div>
 
