@@ -67,7 +67,7 @@ export default function Footer() {
 
             <p className="text-muted-foreground mb-2">Notre addresse</p>
             <p className="text-muted-foreground mb-4">
-              Ange Raphael derrière Santa Lucia ( Douala-Cameroun )
+              Douala,Ancien 3éme aprés la banque atlantique
             </p>
 
             <div className="flex space-x-4">
