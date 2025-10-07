@@ -74,7 +74,7 @@ export default function ContactForm() {
                   de toutes questions médicales.
                   <br />
                   Pardon remplissez juste cette section de questionnaires et
-                  notre équipe vous contactera dès que possible.
+                  notre équipe vous contactera dés que possible.
                 </p>
 
                 <div className="flex items-center mt-8 text-gray-600 dark:text-gray-400">
@@ -91,7 +91,7 @@ export default function ContactForm() {
                     <path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                   <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                    Republic of South Africa, Cape Town, 7525
+                    Douala,Ancien 3éme aprés la banque atlantique
                   </div>
                 </div>
 
@@ -108,7 +108,8 @@ export default function ContactForm() {
                     <path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
                   <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                    +27 21 XXX XXXX
+                    +237 676 13 64 81
+                    +237 655 54 38 65
                   </div>
                 </div>
 
